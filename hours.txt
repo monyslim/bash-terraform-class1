@@ -1,2 +1,0 @@
-username=James:password=password1
-username=John:password=password2
