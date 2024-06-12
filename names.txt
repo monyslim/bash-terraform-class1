@@ -1,0 +1,4 @@
+James:MyPassword@1?0%0:2001:others
+Jerry:MyPassword@2?0!0:2002:others
+Mary:MyPassword@3#0&0:2003:support
+John:MyPassword@4=0!0:2004:support
